@@ -1,6 +1,7 @@
 # HackerRank
-HackerRank SQL Exercises (https://www.hackerrank.com/domains/sql)
+**HackerRank SQL Exercises (https://www.hackerrank.com/domains/sql) 
+**Using MySQL
 
-This repository is to help reference the practice sets that I've completed from HackerRank's website. I will update this repository occassionally as I complete select sections.
+This repository is to help reference the practice sets completed from HackerRank's website. I will update this repo occassionally as I complete select sections.
 
-Please feel free to send comments or add suggestions for code adjustments.
+Feel free to comment or add suggestions for code adjustments.
